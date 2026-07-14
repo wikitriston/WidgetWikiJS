@@ -1,2 +1,2 @@
-# JavaScriptWiki
-JavaScriptWiki is an open-source JavaScript-powered wiki platform focused on modular architecture, extensibility, and collaborative knowledge sharing. Built for developers and communities, it supports modern web technologies, customizable plugins, self-hosting, and scalable documentation workflows.
+# WidgetWikiJS
+WidgetWikiJS is a collection of open-source JavaScript widgets for MediaWiki. The project is inspired by community-developed Fandom widgets, but rewritten from scratch to be compatible with MediaWiki and various skins.
