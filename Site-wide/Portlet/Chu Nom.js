@@ -2,7 +2,7 @@
 
     function applyNom() {
         const span = document.querySelector(
-            'a[data-language-autonym="中文（简体）"] span'
+            'a[data-language-autonym="中文（繁體）"] span'
         );
 
         if (!span || span.dataset.nomApplied) return;
